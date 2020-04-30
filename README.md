@@ -3,7 +3,7 @@ docker compose file to setup Elasticsearch, logstash and Kibana (ELK) stack.
 
 ## How to use
 
-Clone this repo and use Docker-compose.yml file in docker-terminal to install & start the ELK-Stack or create the Docer-compose.yml file and paste the code in it given below -
+Clone this repo and use Docker-compose.yml file in docker-terminal to install & start the ELK-Stack or create the Docker-compose.yml file and paste the code in it given below -
 
 ```
 # Author: Sagar Singh
